@@ -1,0 +1,5 @@
+{
+  "name": "China Map Dashboard",
+  "description": "A high-fidelity data visualization dashboard featuring an interactive map of China with order volume analytics, drill-down capabilities, and timeline filtering.",
+  "requestFramePermissions": []
+}
